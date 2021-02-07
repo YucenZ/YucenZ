@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 It's Yucen. I'm a product designer with a background in computer science. 
 
 <!--
 **YucenZ/YucenZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
