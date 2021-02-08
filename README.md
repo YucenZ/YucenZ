@@ -1,4 +1,4 @@
-## Hi 👋, I'm Yucen!
+# Hi 👋, I'm Yucen!
 
 Hi, I'm a [product designer](https://yucenzhang.com/)[,](https://www.notion.so/Hey-I-m-Yucen-12a75bb9f1174c32bb4fb90b5fd13f4d) web developer, and a 4th-year student studying Computer Science at [University of Toronto](https://www.utoronto.ca/).  With the passion to build tools that empower our daily lives, I developed my skills through interning as a product designer at [Nobul](https://nobul.com/), participating entrepreneurship programs at [Next Canada](https://www.nextcanada.com/programs-overview/), and launching a [side project](https://www.producthunt.com/posts/indify-2) on Product Hunt. 
 
