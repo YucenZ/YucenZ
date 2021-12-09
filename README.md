@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Yucen!
 
-Hi, I'm a product designer with a background in computer science. I design apps/websites to empower the way we live and work. I developed my skills through interning at [Nobul](https://nobul.com/), participating in entrepreneurship programs at [Next Canada](https://www.nextcanada.com/programs-overview/), and launching a [side project](https://www.producthunt.com/posts/indify-2) on Product Hunt. 
+Hi, I'm a product designer. With a background in computer science and entrepreneurship, I design to shape the way we live and work in the future. I love working with startups and think deeply about the right problem to solve. I am currently at [SkyWatch](https://www.skywatch.com/), building the digital infrastructure for the future of Earth Observation and remote sensing.
 
 I currently live in Toronto. Outside of work, I love making [song covers](https://www.notion.so/Music-fa8f5e1f65584ae28a85c6a905a3b842) 🎤,  browsing [Indie Hackers](https://www.indiehackers.com/), and playing basketball 🏀.
 
